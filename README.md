@@ -5,6 +5,18 @@
 2) npm install
 3) npm run dev
 
+# For mannual installation
+
+1)npm create vite@latest setup -- --template react
+2)npm install tailwindcss @tailwindcss/vite
+3)Add -> import tailwindcss from '@tailwindcss/vite' in vite.config.ts file
+4)Add -> tailwindcss(), in plugins section onn the same file 
+5)add -> @import "tailwindcss"; in src/index.css file 
+6)npm run dev
+7) To test the tailwind is working. In the App.jsx file update this line <h1 className='text-red-400'>Vite + React</h1>
+
+
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
