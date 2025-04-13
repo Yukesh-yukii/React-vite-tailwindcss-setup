@@ -1,4 +1,4 @@
-# React + Vite
+# React + Vite + Tailwindcss
 
 # For running 
 1) Download the Repo
