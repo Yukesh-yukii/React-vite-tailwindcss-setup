@@ -13,7 +13,7 @@
 4) Add -> tailwindcss(), in plugins section onn the same file 
 5) add -> @import "tailwindcss"; in src/index.css file 
 6) npm run dev
-7) To test the tailwind is working. In the App.jsx file update this line <h1 className='text-red-400'>Vite + React</h1>
+7) To test the tailwind is working. In the App.jsx file update this line ' <h1 className='text-red-400'>Vite + React</h1> '
 
 
 
