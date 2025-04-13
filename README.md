@@ -1,9 +1,10 @@
 # React + Vite + Tailwindcss
 
 # For running 
-1) Download the Repo as Zip and extract and open in VsCode
-2) <pre>npm install</pre>
-3) <pre>npm run dev</pre>
+1) Make sure that you have installed node js in your PC
+2) Download the Repo as Zip and extract and open in VsCode
+3) <pre>npm install</pre>
+4) <pre>npm run dev</pre>
 
 # For mannual installation
 
